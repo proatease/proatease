@@ -1,8 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Pratisthit Baral
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif" width="600"/>
+
 
 
 ### 💻 Computer Engineering Student | 🤖 AI & Machine Learning Enthusiast | 🚀 Full Stack Developer
@@ -165,4 +164,4 @@
 ⭐ **Thanks for visiting my profile!**
 
 </div>
-</p>
+
