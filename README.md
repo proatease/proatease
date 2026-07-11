@@ -6,9 +6,9 @@
 
 ### 💻 Computer Engineering Student | 🤖 AI & Machine Learning Enthusiast | 🚀 Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning;Computer+Vision+Developer;Full+Stack+Developer;Python+%7C+React+%7C+FastAPI;Building+Real-World+Projects;Always+Learning+New+Things+🚀"/>
-
-<img src="https://komarev.com/ghpvc/?username=proatease&label=Profile%20Views&color=0e75b6&style=flat" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Python+Developer;Open+Source+Contributor" />
+</p>
 
 </div>
 
