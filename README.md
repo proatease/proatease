@@ -143,14 +143,14 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/proatease">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
 
-<a href="https://linkedin.com/in/pratishthit-raj-baral">
+<a href="https://www.linkedin.com/in/pratishthit-raj-baral-6353a4296">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
+<a href="https://www.instagram.com/_pratishthit/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 </p>
 
 ---
