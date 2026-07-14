@@ -65,15 +65,7 @@
 
 </p>
 
----
 
-## ⚙ Backend Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-
-</p>
 
 ---
 
@@ -99,7 +91,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
 </p>
 
@@ -127,7 +119,6 @@
 
 <img src="https://img.shields.io/badge/FastAPI-teal?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
 
 </p>
 
