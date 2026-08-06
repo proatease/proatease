@@ -61,7 +61,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite"/>
 
 </p>
 
@@ -83,6 +83,7 @@
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
+
 </p>
 
 ---
@@ -93,6 +94,9 @@
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+
 </p>
 
 ---
@@ -101,7 +105,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </p>
 
