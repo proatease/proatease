@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Pratisthit Baral
+# Hi 👋, I'm Pratishthit Raj Baral
 
 
 
